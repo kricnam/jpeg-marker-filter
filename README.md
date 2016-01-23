@@ -1,5 +1,5 @@
 # jpeg-marker-filter
-filter away no standard jfif marker from a jpeg file
+filter away no standard jfif markers from a jpeg file, in some case, could make some private modified jpeg pic to be displayed by standard tools.
 
 #compile
 
