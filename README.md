@@ -3,9 +3,13 @@ filter away no standard jfif marker from a jpeg file
 
 #compile
 
+in the source directory, type:
+
     g++ -o filter *.cpp
   
-#usage:
+#usage
+
+after compile, type the following to get result
 
    ./filter sample.jpg > filtered-sample.jpg
 
