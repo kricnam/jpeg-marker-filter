@@ -11,7 +11,7 @@ in the source directory, type:
 
 after compile, type the following to get result
 
-   ./filter sample.jpg > filtered-sample.jpg
+    ./filter sample.jpg > filtered-sample.jpg
 
 ## prepare material
 
